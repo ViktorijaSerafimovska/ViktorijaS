@@ -1,0 +1,396 @@
+body{
+    background: black;
+    width: 1800px;
+    height: 798px;
+    margin: auto;
+}
+#My{
+    background: black;
+    color: lightgrey;
+    height: 798px;
+    margin: auto;
+    margin-top: 80px;
+}
+
+#My > div > a:nth-child(1):hover{
+    background: #fb60a5;
+}
+#My > div > a:nth-child(2):hover{
+    background: #fb60a5;
+}
+#My > div > a:nth-child(3):hover{
+     background: #fb60a5;
+ }
+#My > footer > div > a:nth-child(1):hover{
+    background: #fb60a5;
+
+}
+#My > footer > div > a:nth-child(2):hover{
+    background: #fb60a5;
+
+}
+#My > footer > div > a:nth-child(3):hover{
+    background: #fb60a5;
+
+}
+#My > footer > div > a:nth-child(4):hover{
+    background: #fb60a5;
+
+}
+#My > footer > div > a:nth-child(5):hover{
+    background: #fb60a5;
+
+}
+#My > div > a:nth-child(4):hover{
+    background: #fb60a5;
+}
+#My > div > a:nth-child(5):hover{
+    background: #fb60a5;
+}
+
+.navBar{
+    margin-top: 20px;
+    padding-left: 340px;
+    background: black;
+}
+#gfg{
+    color: white;
+    font-size: 130px;
+    margin-left: 50px;
+}
+#My > div{
+    padding-top: 40px;
+    font-size: 35px;
+    margin-left: 150px;
+    margin-right: 250px;
+}
+#My > div > a:nth-child(2){
+    padding-right: 50px;
+}
+#My > div > a:nth-child(3){
+    padding-right: 50px;
+}
+#My > div > a:nth-child(4){
+    padding-right: 50px;
+}
+#My > div > a:nth-child(1){
+    padding-right: 50px;
+    margin-left: 20px;
+}
+/*ova ke stoi za About*/
+
+.ME{
+    padding-top: 150px;
+    font-size: 35px;
+    width: 450px;
+    text-align: center;
+    padding-left: 150px;
+}
+/*ova ke stoi za About*/
+#AboutME{
+    font-size: 70px;
+    margin-top: -20px;
+}
+
+/*ova ke stoi za About*/
+
+#My > span > p{
+    margin-top: -89px;
+    margin-left: 150px;
+}
+/*ova ke stoi za About*/
+
+
+/*ova ke stoi za About slikata*/
+#My > span > div{
+    background: url("befunky_2023-5-2_19-58-26.jpg") no-repeat;
+width: 600px;
+    height: 350px;
+    float: right;
+    margin-top: -520px;
+    margin-right: 350px;
+}
+
+#My > span > div > p{
+    font-size: 0px;
+}
+div.NavAbout{
+    margin-right: -150px;
+    margin-top: -70px;
+    width: 1000px;
+}
+#My > footer > div > a:nth-child(1){
+    color: #7cbcfb;
+    margin-right: 50px;
+
+
+}
+#My > footer > div > a:nth-child(2){
+    color: #7cbcfb;
+    margin-right: 50px;
+
+
+}
+#My > footer > div > a:nth-child(3){
+    color: #7cbcfb;
+    margin-right: 50px;
+
+}
+#My > footer > div > a:nth-child(4){
+    color: #7cbcfb;
+    margin-right: 50px;
+}
+#My > footer > div > a:nth-child(5){
+    color: #7cbcfb;
+}
+#My > div.NavAbout > a:nth-child(2){
+    color: #7cbcfb;
+}
+#My > div.NavAbout > a:nth-child(1){
+    color: #7cbcfb;
+}
+#My > div.NavAbout > a:nth-child(3){
+    color: #7cbcfb;
+}
+#My > div.NavAbout > a:nth-child(4){
+    color: #7cbcfb;
+}
+#My > div.NavAbout > a:nth-child(5){
+    color: #7cbcfb;
+}
+#My > div > a:nth-child(4){
+    color: #7cbcfb;
+}
+#My > div > a:nth-child(5){
+    color: #7cbcfb;
+}
+#My > div > a:nth-child(3){
+    color: #7cbcfb;
+}
+#My > div > a:nth-child(2){
+    color: #7cbcfb;
+}
+#My > div > a:nth-child(1){
+    color: #7cbcfb;
+}
+.foot{
+    background: url("back2.jpg") no-repeat;
+    height: 592px;
+    width: 1015px;
+    margin-top: -10px;
+    margin-left: 420px;
+}
+
+/*dotuka gore e se super*/
+
+#My > div.lol > p:nth-child(1){
+    width: 450px;
+    margin-left: 200px;
+}
+#My > div.lol > p:nth-child(2){
+    width: 550px;
+margin-left: 850px;
+}
+#My > div.navHobie{
+    margin-top: -40px;
+    margin-left: 500px;
+}
+#Hobbies{
+    margin-top: -25px;
+    font-size: 100px;
+}
+#My > div.lol > marquee{
+    margin-left: 25px;
+}
+#My > div.lol > p:nth-child(3){
+    margin-left: 500px;
+    margin-top: -550px;
+    width: 400px;
+    background: url("cycling.jpg") no-repeat;
+    width: 400px;
+    padding-top: 300px;
+}
+#My > div.lol > p:nth-child(4){
+    margin-top: -650px;
+    margin-left: 950px;
+    background: url("music.jpg") no-repeat;
+    width: 400px;
+    padding-top: 280px;
+}
+
+
+/*ova e se za kontakt delot*/
+
+#Contact{
+    font-size: 55px;
+    margin-left: 400px;
+    margin-top: -10px;
+}
+
+#My > div.naslov{
+    font-size: 35px;
+    margin-left: 230px;
+    width: 1500px;
+    margin-top: -25px;
+}
+
+#My > ul{
+    list-style: none;
+    font-size: 35px;
+    margin-left: 405px;
+    padding-top: 120px;
+    background: url("businessman-hand-holding-smart-phone-with-icon-mobile-phone-mail-telephone-address-customer-service-call-center-contact-us-concept (1).jpg") no-repeat;
+    height: 549px;
+    width: 1000px;
+    padding-left: 90px;
+    margin-top: 30px;
+
+}
+#My > footer{
+    margin-top: -30px;
+}
+#My > footer > div{
+    margin-top: -50px;
+}
+.NavAbout{
+    font-size: 45px;
+    margin-left: 520px;
+    margin-top: -65px;
+}
+#My > div.navContact{
+    margin-left:  490px;
+    margin-top: -155px;
+    animation:  shake 0.8s;
+}
+#My > ul > li:nth-child(1) > a{
+    color: white;
+    text-decoration: none;
+
+}
+#My > ul > li:nth-child(2) > a{
+    color: white;
+    text-decoration: none;
+
+}
+
+#My > ul > li:nth-child(3) > a{
+    color: white;
+    text-decoration: none;
+
+
+}
+#My > ul > li:nth-child(4) > a {
+    color: white;
+    text-decoration: none;
+}
+#Traveling{
+    font-size: 50px;
+    margin-right: -150px;
+    width: 1500px;
+}
+.navTrav{
+    font-size: 35px;
+    margin-left: 550px;
+    margin-top: 100PX;
+}
+
+.navBar{
+    margin-top: -50px;
+}
+.foot{
+    margin-top: -25px;
+}
+
+#gfg{
+    margin-top: -35px;
+}
+#Traveling > p:nth-child(2){
+    background: url("tourism-cinque-terre-italy-young-female-backpacker-walks-azure-trail-looking-vernazza-village-italy (1).jpg") no-repeat;
+    width: 300px;
+    height: 200px;
+    margin-top: -80px;
+    margin-left: 200px;
+}
+#Traveling > p:nth-child(3){
+    background: url("beautiful-woman-visiting-alpine-lake-braies-italy (1).jpg") no-repeat;
+    width: 300px;
+    height: 200px;
+    margin-left: 200px;
+    margin-top: -20px;
+
+}
+.NavAbout{
+    font-size: 35px;
+}
+
+
+#Traveling > p:nth-child(4){
+    background: url("free-carefree-joyful-girl-traveler-with-open-arms-stands-hill-rock-sea-bay-turkey-butterfly-valley-enjoy-travel-concept (1).jpg") no-repeat;
+    width: 300px;
+    height: 200px;
+    margin-left: 200px;
+    margin-top: -20px;
+}
+
+#Traveling > p:nth-child(5){
+    background: url("young-people-together-planning-trip-europe-top-view-empty-white-space-notebook-where-you-time-plan-text-travel-concept (1).jpg") no-repeat;
+    width: 300px;
+    height: 320px;
+    margin-left: 1000px;
+    margin-top: -520px;
+}
+#Traveling > p:nth-child(6){
+    margin-left: 590px;
+    width: 350px;
+    margin-top: -390px;
+}
+.
+#My > footer{
+    margin-top: -90px;
+}
+#Traveling > p:nth-child(1) {
+    margin-left: 1009px;
+    margin-top: 35px;
+    background: url("traveling (1).png") no-repeat;
+    height: 128px;
+    width: 128px;
+}
+#Traveling > p:nth-child(7) {
+    margin-left: 1000px;
+    margin-top: -90px;
+    font-size: 30px;
+    padding-left: 50px;
+    border: white;
+    background: url("send-message (1).png") no-repeat;
+    height: 32px;
+    width: 300px;
+
+}
+
+#My > ul > li:nth-child(2){
+    padding-top: 35px;
+}
+#My > ul > li:nth-child(3){
+     padding-top: 35px;
+ }
+#My > ul > li:nth-child(4){
+    padding-top: 35px;
+}
+
+
+/*traveling*/
+
+#Traveling{
+    margin-top: -25px;
+    font-size: 40px;
+}
+#My > footer > div{
+    margin-top: 100px;
+}
+#Traveling > p:nth-child(1){
+    font-size: 0px;
+}
+#Trav{
+    margin-top: 30px;
+}
+#Traveling > p:nth-child(1)
